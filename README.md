@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img align='center' height= '550em' src="/Users/mrlandino/turing/3module/GitHub-Profile/Ross-Landino/Ross Landino.jpg"/>
+  <img align='center' height= '550em' src=".Ross Landino.jpg"/>
 </div>
 
 <h1 align='center'>Hey there
