@@ -1,4 +1,7 @@
 
+<div align="center">
+  <img align='center' height= '550em' src="/Users/mrlandino/turing/3module/GitHub-Profile/Ross-Landino/Ross Landino.jpg"/>
+</div>
 
 <h1 align='center'>Hey there
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -6,26 +9,25 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=JoeRupp&show_icons=true&theme=dark&hide_border=true"/>
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=mrlandino&show_icons=true&theme=dark&hide_border=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeRupp&layout=compact&theme=dark&hide_border=true"/>
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlandino&layout=compact&theme=dark&hide_border=true"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoeRupp&style=flat-square&color=3CD218" alt="Profile view counter"/>
+  <img src="https://komarev.com/ghpvc/?username=mrlandino&style=flat-square&color=3CD218" alt="Profile view counter"/>
 </div>
 
 ## About Me:
-I am a Front End Developer with a passion for solving challenging problems while creating an awesome user-experience. I thrive in collaborative and creative environments that provide me the opportunity to always be learning new things.
+I am a Front End Developer who has a passion for problem solving and working in highly efficient purposeful teams. My drive comes from seeing projects through to fruition and working in teams that bring out the best in each other. 
 
-Before switching to software as a full-time pursuit, I worked in the video game industry in the Talent Attraction space - the marketing and branding behind recruiting talent to a company. As a developer, I weave my previous experience in brand, project management, and design into my workflow to build projects that create lasting impressions.
+Before switching to software development, I worked as a Youth Rock Climbing Head Coach and Outdoor Educator for about 12 years. I have also worked in the photography field as a professional photoshop retoucher. With my background in developing teams and faciliting meaningful experiences, I am eager to continue to expand my technical knowledge as well as use my previous experiences to contribute to amazing teams of individuals. 
 
 <p>
-   <a href="https://www.linkedin.com/in/joseph-rupp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-   <a href="https://jruppdesign.com/"><img src="https://img.shields.io/badge/Website-343434?style=for-the-badge&logoColor=white" alt="Website"></a>
-   <a href="mailto:joerpp8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
+   <a href="https://www.linkedin.com/in/rosslandino/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   <a href="mailto:mrlandino@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
 </p>
 
 ## Languages:
@@ -39,7 +41,7 @@ Before switching to software as a full-time pursuit, I worked in the video game 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
@@ -51,17 +53,13 @@ Before switching to software as a full-time pursuit, I worked in the video game 
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-222222.svg?&style=for-the-badge&logo=gnubash&logoColor=43CF0B"/>
   <img src="https://img.shields.io/badge/iOS-ECECEC?style=for-the-badge&logo=apple&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Photoshop-262626?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF?"/>
-  <img src="https://img.shields.io/badge/Illustrator-262626?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/>
-  <img src="https://img.shields.io/badge/InDesign-262626?style=for-the-badge&logo=adobeindesign&logoColor=FF3366"/>
-  <img src="https://img.shields.io/badge/XD-262626?style=for-the-badge&logo=adobexd&logoColor=#FF61F6"/>
+ 
 </p>
 
 ## Processes:
