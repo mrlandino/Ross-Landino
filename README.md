@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img align='center' height= '550em' src=".Ross Landino.jpg"/>
+  <img align='center' height= '550em' src="./Ross Landino.jpg"/>
 </div>
 
 <h1 align='center'>Hey there
