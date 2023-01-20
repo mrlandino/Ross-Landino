@@ -7,14 +7,6 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30em" width="30em"/>
 </h1>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=mrlandino&show_icons=true&theme=dark&hide_border=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlandino&layout=compact&theme=dark&hide_border=true"/>
-  </a>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrlandino&style=flat-square&color=3CD218" alt="Profile view counter"/>
