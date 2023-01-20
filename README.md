@@ -8,9 +8,6 @@
 </h1>
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrlandino&style=flat-square&color=3CD218" alt="Profile view counter"/>
-</div>
 
 ## About Me:
 I am a Front End Developer who has a passion for problem solving and working in highly efficient purposeful teams. My drive comes from seeing projects through to fruition and working in teams that bring out the best in each other. 
